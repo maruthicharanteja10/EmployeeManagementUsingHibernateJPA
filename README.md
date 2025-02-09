@@ -151,9 +151,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any questions or feedback, please contact:
-- **Email:** [charantej@gmail.com](mailto:charantej@gmail.com)
+- **Email:** [charantej@gmail.com](mailto:charantejdonthireddy@gmail.com)
 ```
 
----
-
-This README file outlines your project’s purpose, structure, setup instructions, and other relevant details, making it easy for users and contributors to understand and work with your code.
